@@ -1,2 +1,2 @@
 # neural-networks-for-machine-learning
-neural networks for machine learning f.t. Geoffrey Hinton at Coursera
+[neural networks for machine learning]（https://www.coursera.org/learn/neural-networks） f.t. Geoffrey Hinton at Coursera
